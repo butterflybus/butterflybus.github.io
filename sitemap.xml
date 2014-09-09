@@ -1,76 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://butterflybus.org/blog/2014/06/07/site-launch/</loc>
-        <lastmod>2014-06-07T19:09:22-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/07/14/equipment/</loc>
-        <lastmod>2014-08-14T03:43:20-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/07/26/play/</loc>
-        <lastmod>2014-08-14T03:43:20-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/07/27/first-partner/</loc>
-        <lastmod>2014-08-14T03:43:20-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/07/27/practice-makes-better/</loc>
-        <lastmod>2014-08-14T03:44:25-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/07/28/model/</loc>
-        <lastmod>2014-08-14T03:43:20-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/04/need-to-be-slow-to-be-fast/</loc>
-        <lastmod>2014-08-14T03:43:20-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/08/progress-through-failing/</loc>
-        <lastmod>2014-08-25T18:44:29-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/10/trust-or-replace/</loc>
-        <lastmod>2014-08-14T03:43:20-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/14/second-partner/</loc>
-        <lastmod>2014-08-14T03:51:45-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/14/third-partner/</loc>
-        <lastmod>2014-08-15T04:34:42-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/16/targeting-rackets/</loc>
-        <lastmod>2014-08-20T21:29:56-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/19/fourth-partner/</loc>
-        <lastmod>2014-08-20T21:29:56-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/20/crush-the-donut/</loc>
-        <lastmod>2014-08-20T21:29:56-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/24/that-was-good-now-try-this/</loc>
-        <lastmod>2014-08-25T05:38:35-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/25/dress-your-wall/</loc>
-        <lastmod>2014-08-26T16:42:07-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/08/28/lots-of-fuzzy-balls/</loc>
-        <lastmod>2014-08-28T19:33:44-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://butterflybus.org/blog/2014/09/04/what-does-the-fox-wear/</loc>
-        <lastmod>2014-09-04T17:39:24-07:00</lastmod>
+        <loc>http://butterflybus.org/blog/2014/08/08/site-launch/</loc>
+        <lastmod>2014-09-09T10:16:21-07:00</lastmod>
     </url>
     <url>
         <loc>http://butterflybus.org/bio/</loc>
@@ -78,11 +10,11 @@
     </url>
     <url>
         <loc>http://butterflybus.org/blog/archives/</loc>
-        <lastmod>2014-09-04T17:39:24-07:00</lastmod>
+        <lastmod>2014-09-09T10:16:21-07:00</lastmod>
     </url>
     <url>
         <loc>http://butterflybus.org/blog/</loc>
-        <lastmod>2014-09-04T17:39:24-07:00</lastmod>
+        <lastmod>2014-09-09T10:16:21-07:00</lastmod>
     </url>
     <url>
         <loc>http://butterflybus.org/contact/</loc>
@@ -90,7 +22,7 @@
     </url>
     <url>
         <loc>http://butterflybus.org/</loc>
-        <lastmod>2014-09-04T17:39:24-07:00</lastmod>
+        <lastmod>2014-09-09T10:16:21-07:00</lastmod>
     </url>
     <url>
         <loc>http://butterflybus.org/</loc>
@@ -106,7 +38,7 @@
     </url>
     <url>
         <loc>http://butterflybus.org/sponsors/</loc>
-        <lastmod>2014-09-04T17:39:24-07:00</lastmod>
+        <lastmod>2014-09-09T10:16:21-07:00</lastmod>
     </url>
     <url>
         <loc>http://butterflybus.org/synopsis/</loc>
